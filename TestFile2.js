@@ -1,2 +1,2 @@
-var test = "hello 5";
-consloe.log(test);
+var test = "hello 6";
+console.log(test1);
