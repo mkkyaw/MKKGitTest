@@ -1,2 +1,2 @@
 var test = "hello 6";
-console.log(test);
+console.log(test1);
